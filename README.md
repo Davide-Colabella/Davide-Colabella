@@ -38,9 +38,8 @@
   
 <h3>Stats: </h3>
 <p>
-<img src = "https://github-readme-stats.vercel.app/api?username=Davide-Colabella&theme=radical">
+<img align = left src = "https://github-readme-stats.vercel.app/api?username=Davide-Colabella&theme=radical">
+<img align = rigth src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davide-Colabella&theme=tokyonight">
 </p>
   
-<div> 
- ![snake gif](https://github.com/Davide-Colabella/Davide-Colabella/blob/output/github-contribution-grid-snake.gif)
-</div>
+![snake gif](https://github.com/Davide-Colabella/Davide-Colabella/blob/output/github-contribution-grid-snake.svg)

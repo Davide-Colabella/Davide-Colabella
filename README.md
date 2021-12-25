@@ -1,11 +1,5 @@
-  <h1 align="center">Hi, I'm Davide Colabella <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align="center">Hi, I'm Davide Colabella <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <h3 align="center">Student at UNIVPM, Italy <img src = "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" width = 25px>.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=Davide-Colabella&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Davide-Colabella" /> 
-  </p>
 
 <br>
 

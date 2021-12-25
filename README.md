@@ -38,11 +38,9 @@
   
 <h3>Stats: </h3>
 <p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davide-Colabella&theme=radical)
+<img src = "https://github-readme-stats.vercel.app/api?username=Davide-Colabella&theme=radical">
 </p>
   
 <div> 
- 
- ![Snake animation]()
- 
+![Snake animation]()
 </div>

@@ -42,5 +42,5 @@
 </p>
   
 <div> 
-![Snake animation]()
+ ![Snake animation](https://github.com/Davide-Colabella/Davide-Colabella/blob/output/github-contribution-grid-snake.svg)
 </div>
